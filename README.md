@@ -49,7 +49,6 @@ Vercel
 ## 📬 Contact
 For collaboration or queries, feel free to reach out:
 📧 Email: somviyamoorthi01@gmail.com
-🔗 LinkedIn
-🌐 Portfolio
+
 
 
