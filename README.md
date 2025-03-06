@@ -1,10 +1,9 @@
 # 🛒 Amazon Clone 
 
 ## 📖 Introduction
-This project is a **Front-end Clone of Amazon** built using **Vite** and **React**.  
-It replicates the core user interface and basic functionality of Amazon's homepage, product listings, product details page, and responsive design.  
-
-This project serves as a great **learning experience** in working with **modern front-end tools** like Vite while mastering **React component design, state management, and responsive UI development**.
+- This project is a **Front-end Clone of Amazon** built using **Vite** and **React**.
+- It replicates the core user interface and basic functionality of Amazon's homepage, product listings, product details page, and responsive design.
+- This project serves as a great **learning experience** in working with **modern front-end tools** like Vite while mastering **React component design, state management, and responsive UI development**.
 
 ---
 
@@ -31,6 +30,7 @@ This project serves as a great **learning experience** in working with **modern 
 | 🎨 CSS         | Styling and responsive design                   |
 | 📄 HTML        | Structuring pages                               |
 
+
 ## Install Dependencies
 
 npm install
@@ -44,7 +44,7 @@ npm run build
 
 ## 🚀 Deployment
 
-Vercel
+Netlify
 
 ## 📬 Contact
 For collaboration or queries, feel free to reach out:
