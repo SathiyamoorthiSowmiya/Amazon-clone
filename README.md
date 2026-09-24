@@ -8,7 +8,7 @@
 ---
 
 ## 🌐 Live Demo
-👉 [Amazon Clone - Live Demo](https://spiffy-raindrop-0bc2dc.netlify.app/)
+👉 [Amazon Clone - Live Demo](https://amazon-clone-six-rouge-85.vercel.app/)
 
 ---
 
